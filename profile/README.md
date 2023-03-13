@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/codomen4community">Codomen</a></h1>
 
-<h2 align="center"> By the Beginners, For the Beginners ❤️<h2>
+<h2 align="center"> By the Beginners, For the Beginners ❤️</h2>
 
 <h3>Navigator :</h3>
 
