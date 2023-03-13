@@ -9,6 +9,8 @@
 - [How to Contribute? (We love contributors ❤️)](#how_to_contribute)
 - [Future Goals](#future_goals)
 
+---
+
 <h2 align="center">About Codomen</h2>
 
 Codomen is an open source community which aim's to increase awareness about open source & participation among beginners web developers.
